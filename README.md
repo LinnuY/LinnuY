@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinnuY
 - 👀 I’m interested in C/C++,Linux.
-- 🌱 I’m currently learning Http and Hadoop.
+- 🌱 I’m currently learning MongoDB and MySQL.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
